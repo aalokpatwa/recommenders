@@ -9,3 +9,6 @@ which are the original MovieLens files for movie ratings, user features, and mov
 
 Then, navigate into each model's diretory and run: 
 `python3 train.py`
+
+### Code References
+Code for LightGCN training was adapted from Derrick Li's CS224w project at Stanford: https://medium.com/stanford-cs224w/recommender-systems-with-gnns-in-pyg-d8301178e377.
